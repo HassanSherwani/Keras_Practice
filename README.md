@@ -2,7 +2,7 @@
 
 These excercises are focussed more on keras libraries and its implementation. For concepts of deep learning and mathematics, I have created separate repositories "Deep learning projects" and "Deep learning concepts"
 
-# List of Project
+# List of Projects
 
 - Convolutional Neural Network(CNN) application on MNIST dataset <br>
 
