@@ -4,6 +4,14 @@ These excercises are focussed more on keras libraries and its implementation. Fo
 
 # List of Project
 
+- Convolutional Neural Network(CNN) application on MNIST dataset <br>
+
+- Multi-classification on Iris dataset<br>
+
+- Sentiments analysis for Ohio_Presidential_Debate<br>
+
+- Twitter US Airline Sentiment<br>
+
 # Modules
 
 pandas<br>
