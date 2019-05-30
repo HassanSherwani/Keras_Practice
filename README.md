@@ -12,6 +12,8 @@ These excercises are focussed more on keras libraries and its implementation. Fo
 
 - Twitter US Airline Sentiment<br>
 
+- Stock Price Prediction <br>
+
 # Modules
 
 pandas<br>
