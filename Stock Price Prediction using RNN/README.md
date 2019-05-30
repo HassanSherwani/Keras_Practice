@@ -2,3 +2,9 @@
 
 Stock price prediction is the act of trying to determine the future of a company stock. This can be done by analyzing the past data
 
+# Dataset
+
+https://www.kaggle.com/camnugent/sandp500
+
+
+
